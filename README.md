@@ -6,9 +6,9 @@ A collection of guided personal learning records by **Dawood Rizwan**, a Securit
 
 [View my portfolio](https://Cyber-dawood69.github.io/) · [Linux/Wazuh case study](https://Cyber-dawood69.github.io/projects/linux-wazuh.html) · [LinkedIn](https://www.linkedin.com/in/dawood-rizwan/)
 
-## Technical corrections — read first
+## Project methodology
 
-**[Corrected explanations and retest checklist](TECHNICAL-CORRECTIONS.md)** (4 October 2026). This review fixes command and interpretation errors across the early reports. Original PDFs are historical records; the correction document supersedes conflicting explanations. No new VM execution was performed during this review.
+[Technical reference and validation methodology](TECHNICAL-NOTES.md) — command examples, access-control principles and evidence standards used to interpret the lab records.
 
 ## Start here
 
@@ -39,11 +39,9 @@ The links below preserve the original report filenames and learning history.
 - [Traffic Control & Firewall Hardening day 3.pdf](https://github.com/Cyber-dawood69/Home-Cybersecurity-Lab/blob/main/Traffic%20Control%20%26%20Firewall%20Hardening%20day%203.pdf)
 - [incident Response Detection Correlation and Automated Defense  day 7.pdf](https://github.com/Cyber-dawood69/Home-Cybersecurity-Lab/blob/main/incident%20Response%20Detection%20Correlation%20and%20Automated%20Defense%20%20day%207.pdf)
 
-## How to read the evidence
+## Project scope
 
-These are historical learning notes, not a production deployment or an independent skills assessment. Exercises were completed with guidance; screenshots support the specific state captured, not every interpretation in a report. The curated portfolio case studies separate observations from validation gaps.
-
-When reviewing a result, connect the command or configuration to the same host, timestamp and log. Local user switching does not by itself establish lateral movement. A single alert does not establish time-based correlation, and fewer alerts do not prove successful detection bypass. A running service does not prove end-to-end telemetry delivery.
+Personal projects conducted in a controlled virtual environment with guided practice. Reports contain configuration examples and captured results. The technical reference provides the current interpretation and validation methodology; the portfolio presents selected case studies. The cloud-IAM report in this archive is conceptual study.
 
 ## Current direction
 
@@ -51,5 +49,5 @@ When reviewing a result, connect the command or configuration to the same host, 
 
 ## Maintenance
 
-Future improvements should add reproducible steps, matching evidence and clear validation limits. Original reports are retained; this README organises their presentation and clarifies scope. The presentation update was prepared with AI assistance.
+Documentation is maintained with reproducible steps, evidence references and clearly scoped results. Original reports are retained as a learning archive.
 

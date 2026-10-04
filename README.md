@@ -6,6 +6,10 @@ A collection of guided personal learning records by **Dawood Rizwan**, a Securit
 
 [View my portfolio](https://Cyber-dawood69.github.io/) · [Linux/Wazuh case study](https://Cyber-dawood69.github.io/projects/linux-wazuh.html) · [LinkedIn](https://www.linkedin.com/in/dawood-rizwan/)
 
+## Technical corrections — read first
+
+**[Corrected explanations and retest checklist](TECHNICAL-CORRECTIONS.md)** (4 October 2026). This review fixes command and interpretation errors across the early reports. Original PDFs are historical records; the correction document supersedes conflicting explanations. No new VM execution was performed during this review.
+
 ## Start here
 
 - **Network visibility:** packet capture and protocol investigation.
@@ -48,3 +52,4 @@ When reviewing a result, connect the command or configuration to the same host, 
 ## Maintenance
 
 Future improvements should add reproducible steps, matching evidence and clear validation limits. Original reports are retained; this README organises their presentation and clarifies scope. The presentation update was prepared with AI assistance.
+
